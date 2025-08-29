@@ -54,6 +54,9 @@ cd hava-durumu-uygulamasi
 - Unsplash API kullanabilmek için kendi client_id değeriniz ile güncelleme yapmalısınız.
 - Minimum SDK sürümünüzün 21 veya üzerinde olduğundan emin olun.
 
+📜 Lisans
+
+Bu proje Apache 2.0 lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
 
 👨‍💻 Geliştirici
 
